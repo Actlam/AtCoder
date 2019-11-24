@@ -1,2 +1,5 @@
 # atCoder
-atCoder精進録
+atCoder精進録です。
+
+(atCoder)[https://atcoder.jp/]
+
