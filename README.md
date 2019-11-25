@@ -1,6 +1,7 @@
-# atCoder
-atCoder精進録。
+# AtCoder
+AtCoder精進録。<br>
+ACできたコードとメモ書きを管理する場所です。<br>
 言語はPythonでやっています。
 
-(atCoder)[https://atcoder.jp/]
+[AtCoder公式](https://atcoder.jp/)
 
